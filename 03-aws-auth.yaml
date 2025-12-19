@@ -13,5 +13,8 @@ data:
       username: suresh
 kind: ConfigMap
 metadata:
+  creationTimestamp: "2025-12-19T02:05:51Z"
   name: aws-auth
   namespace: kube-system
+  resourceVersion: "11096"
+  uid: add75ece-301c-44fd-8585-c15d8d82d598
